@@ -1,4 +1,4 @@
-# Guide
+# Supplementary Materials Guide
 
 This repository contains supplementary material for Kevin Buffardi's paper, "Cognitive Reflection in Software Verification and Testing," published in the proceedings of IEEE ICSE and presented in the *Software Engineering Education & Training* (SEET 2023) track.
 
